@@ -639,17 +639,15 @@
       },
       "fields": {
         "name": {
-          "en-US": "Mate"
+          "en-US": "Ziva Lee"
         },
         "description": {
-          "en-US": "Gatsby v2 starter to create a top notch portfolio!"
+          "en-US": "Ziva's portfolio"
         },
         "roles": {
           "en-US": [
-            "Quick setup 🚀",
-            "Responsive 📱",
-            "PWA ✨",
-            "Contentful CMS 🔧"
+            "NCUE",
+            "Information Management"
           ]
         },
         "socialLinks": {
@@ -785,7 +783,7 @@
           "en-US": "Github"
         },
         "url": {
-          "en-US": "https://github.com/EmaSuriano/gatsby-starter-mate/blob/master/README.md"
+          "en-US": "https://github.com/zivalee/"
         },
         "fontAwesomeIcon": {
           "en-US": "github"
@@ -1100,13 +1098,13 @@
       },
       "fields": {
         "name": {
-          "en-US": "Medium"
+          "en-US": "Facebook"
         },
         "url": {
-          "en-US": "https://medium.com/@emasuriano"
+          "en-US": "https://www.facebook.com/zivalee77"
         },
         "fontAwesomeIcon": {
-          "en-US": "medium"
+          "en-US": "facebook"
         }
       }
     },
