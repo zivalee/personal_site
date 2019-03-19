@@ -930,7 +930,7 @@
       },
       "fields": {
         "name": {
-          "en-US": "PS"
+          "en-US": "Photoshop"
         },
         "publishedDate": {
           "en-US": "2016-09-01T00:00+02:00"
@@ -1438,7 +1438,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//photos.app.goo.gl/wbjNmGBr2FHrKxKdA",
+            "url": "//i.imgur.com/hdSnZia.png",
             "details": {
               "size": 13209,
               "image": {
@@ -1446,7 +1446,7 @@
                 "height": 600
               }
             },
-            "fileName": "simplendar.png",
+            "fileName": "hdSnZia.png",
             "contentType": "image/png"
           }
         }
