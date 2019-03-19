@@ -692,7 +692,7 @@
           }
         },
         "aboutMe": {
-          "en-US": "Hello, I'm a university student majoring in information management. I've always been a:\n\n* [Techonology Enthusiast:] Love to try out new 3C products and watch unboxing videos.\n* [Language Enthusiast:] Love to learn English and German by watching movies!\n* [Perfectionist:] I will do everything I can to acheive my goals.\n* [Chanllenge Seeker:] I always get sense of fulfillment through sloving problems and conquering challenges.\n* [Giver:] Helping others always makes my day.😃"
+          "en-US": "Hello, I'm a university student majoring in information management. I've always been a:\n* [Techonology Enthusiast:] Love to try out new 3C products and watch unboxing videos.\n* [Language Enthusiast:] Love to learn English and German by watching movies!\n* [Perfectionist:] I will do everything I can to acheive my goals.\n* [Chanllenge Seeker:] I always get sense of fulfillment through sloving problems and conquering challenges.\n* [Giver:] Helping others always makes my day.😃"
         },
         "mediumUser": {
           "en-US": "@emasuriano"
@@ -1014,7 +1014,7 @@
       },
       "fields": {
         "name": {
-          "en-US": "Facebook"
+          "en-US": "Simplendar"
         },
         "publishedDate": {
           "en-US": "2004-09-01T00:00+02:00"
@@ -1029,16 +1029,13 @@
           }
         },
         "repositoryUrl": {
-          "en-US": "https://github.com/facebook"
+          "en-US": "https://github.com/zivalee/Simplendar"
         },
         "description": {
-          "en-US": "Facebook is a popular free social networking website that allows registered users to keep in touch with friends."
-        },
-        "projectUrl": {
-          "en-US": "http://facebook.com/"
+          "en-US": "I LOVE working out! To workout efficiently, I need to record my everyday calory intake. Also, I have the habit of recording my everyday expenses. So my friends and I created Simplendar. A simple calendar app for you to record your daily calorie intake, water intake, expense, and idea."
         },
         "type": {
-          "en-US": "Web"
+          "en-US": "App"
         }
       }
     },
@@ -1230,13 +1227,13 @@
       },
       "fields": {
         "name": {
-          "en-US": "Medium"
+          "en-US": "Resume"
         },
         "url": {
-          "en-US": "https://medium.com/@zivalee"
+          "en-US": "https://drive.google.com/file/d/1dxCPYu7njQFC83zYha67GWLFqMTLXkQW/view?usp=sharing"
         },
         "fontAwesomeIcon": {
-          "en-US": "medium"
+          "en-US": "file"
         }
       }
     }

@@ -1,0 +1,209 @@
+[
+  {
+    "ts": "2019-03-19T07:10:27.703Z",
+    "level": "error",
+    "error": {
+      "name": "InvalidEntry",
+      "entity": {
+        "original": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "ntiequ7mc6q6"
+              }
+            },
+            "id": "6Y7EIx73nUCWuoIWcsuM00",
+            "type": "Entry",
+            "createdAt": "2018-09-08T09:34:51.064Z",
+            "updatedAt": "2018-09-08T09:38:14.627Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "createdBy": {
+              "sys": {
+                "type": "Link",
+                "linkType": "User",
+                "id": "2XGcyQ3vKgm55htxMAIqsM"
+              }
+            },
+            "updatedBy": {
+              "sys": {
+                "type": "Link",
+                "linkType": "User",
+                "id": "2XGcyQ3vKgm55htxMAIqsM"
+              }
+            },
+            "publishedCounter": 4,
+            "version": 20,
+            "publishedBy": {
+              "sys": {
+                "type": "Link",
+                "linkType": "User",
+                "id": "2XGcyQ3vKgm55htxMAIqsM"
+              }
+            },
+            "publishedVersion": 19,
+            "firstPublishedAt": "2018-09-08T09:35:59.528Z",
+            "publishedAt": "2018-09-08T09:38:14.627Z",
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "project"
+              }
+            }
+          },
+          "fields": {
+            "name": {
+              "en-US": "Simplendar"
+            },
+            "publishedDate": {
+              "en-US": "2004-09-01T00:00+02:00"
+            },
+            "logo": {
+              "en-US": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Asset",
+                  "id": "u3Um4zkMrAaQioyq4oSIW"
+                }
+              }
+            },
+            "repositoryUrl": {
+              "en-US": "https://github.com/zivalee/Simplendar"
+            },
+            "description": {
+              "en-US": "I LOVE working out! To workout efficiently, I need to record my everyday calory intake. Also, I have the habit of recording my everyday expenses. So my friends and I created Simplendar. A simple calendar app for you to record your daily calorie intake, water intake, expense, and idea."
+            },
+            "type": {
+              "en-US": "App"
+            }
+          }
+        },
+        "transformed": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "ntiequ7mc6q6"
+              }
+            },
+            "id": "6Y7EIx73nUCWuoIWcsuM00",
+            "type": "Entry",
+            "createdAt": "2018-09-08T09:34:51.064Z",
+            "updatedAt": "2018-09-08T09:38:14.627Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "createdBy": {
+              "sys": {
+                "type": "Link",
+                "linkType": "User",
+                "id": "2XGcyQ3vKgm55htxMAIqsM"
+              }
+            },
+            "updatedBy": {
+              "sys": {
+                "type": "Link",
+                "linkType": "User",
+                "id": "2XGcyQ3vKgm55htxMAIqsM"
+              }
+            },
+            "publishedCounter": 4,
+            "version": 20,
+            "publishedBy": {
+              "sys": {
+                "type": "Link",
+                "linkType": "User",
+                "id": "2XGcyQ3vKgm55htxMAIqsM"
+              }
+            },
+            "publishedVersion": 19,
+            "firstPublishedAt": "2018-09-08T09:35:59.528Z",
+            "publishedAt": "2018-09-08T09:38:14.627Z",
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "project"
+              }
+            }
+          },
+          "fields": {
+            "name": {
+              "en-US": "Simplendar"
+            },
+            "publishedDate": {
+              "en-US": "2004-09-01T00:00+02:00"
+            },
+            "logo": {
+              "en-US": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Asset",
+                  "id": "u3Um4zkMrAaQioyq4oSIW"
+                }
+              }
+            },
+            "repositoryUrl": {
+              "en-US": "https://github.com/zivalee/Simplendar"
+            },
+            "description": {
+              "en-US": "I LOVE working out! To workout efficiently, I need to record my everyday calory intake. Also, I have the habit of recording my everyday expenses. So my friends and I created Simplendar. A simple calendar app for you to record your daily calorie intake, water intake, expense, and idea."
+            },
+            "type": {
+              "en-US": "App"
+            }
+          }
+        }
+      },
+      "data": {
+        "status": 422,
+        "statusText": "Unprocessable Entity",
+        "message": "Validation error",
+        "details": {
+          "errors": [
+            {
+              "name": "type",
+              "type": "Symbol",
+              "value": "I LOVE working out! To workout efficiently, I need to record my everyday calory intake. Also, I have the habit of recording my everyday expenses. So my friends and I created Simplendar. A simple calendar app for you to record your daily calorie intake, water intake, expense, and idea.",
+              "details": "Maximum Symbol length is 255 characters",
+              "path": [
+                "fields",
+                "description",
+                "en-US"
+              ]
+            }
+          ]
+        },
+        "request": {
+          "url": "https://api.contentful.com:443/spaces/gibqgqm8g75c/environments/master/entries/6Y7EIx73nUCWuoIWcsuM00",
+          "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Content-Type": "application/vnd.contentful.management.v1+json",
+            "X-Contentful-User-Agent": "app contentful.import/7.4.2; feature library-import; sdk contentful-management.js/5.2.1; platform node.js/v10.15.3; os Linux/4.15.0-46-generic;",
+            "Authorization": "Bearer ...42c0b",
+            "user-agent": "node.js/v10.15.3",
+            "Accept-Encoding": "gzip",
+            "X-Contentful-Version": 38,
+            "Content-Length": 583
+          },
+          "method": "put",
+          "payloadData": "{\"fields\":{\"name\":{\"en-US\":\"Simplendar\"},\"publishedDate\":{\"en-US\":\"2004-09-01T00:00+02:00\"},\"logo\":{\"en-US\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"u3Um4zkMrAaQioyq4oSIW\"}}},\"repositoryUrl\":{\"en-US\":\"https://github.com/zivalee/Simplendar\"},\"description\":{\"en-US\":\"I LOVE working out! To workout efficiently, I need to record my everyday calory intake. Also, I have the habit of recording my everyday expenses. So my friends and I created Simplendar. A simple calendar app for you to record your daily calorie intake, water intake, expense, and idea.\"},\"type\":{\"en-US\":\"App\"}}}"
+        },
+        "requestId": "fa83ce6f03a3ad06303f49cb95bcb36d"
+      }
+    }
+  }
+]

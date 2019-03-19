@@ -1,0 +1,108 @@
+[
+  {
+    "ts": "2019-03-19T04:25:18.947Z",
+    "level": "error",
+    "error": {
+      "name": "ValidationFailed",
+      "entity": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "gibqgqm8g75c"
+            }
+          },
+          "id": "6nf3rNaaVaUqYcoAcciSeC",
+          "type": "Asset",
+          "createdAt": "2019-03-17T10:58:46.918Z",
+          "updatedAt": "2019-03-19T04:25:17.893Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 53,
+          "publishedAt": "2019-03-19T04:15:53.487Z",
+          "firstPublishedAt": "2019-03-17T10:58:54.429Z",
+          "createdBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "0MB6vLZ3tZ0q17FdWE4JBZ"
+            }
+          },
+          "updatedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "0MB6vLZ3tZ0q17FdWE4JBZ"
+            }
+          },
+          "publishedCounter": 18,
+          "version": 55,
+          "publishedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "0MB6vLZ3tZ0q17FdWE4JBZ"
+            }
+          }
+        },
+        "fields": {
+          "title": {
+            "en-US": "Mate Logo"
+          },
+          "description": {
+            "en-US": "Mate Logo"
+          },
+          "file": {
+            "en-US": {
+              "contentType": "image/png",
+              "fileName": "icon.png",
+              "upload": "https:https://drive.google.com/open?id=1eNJpclaKyTNavyS3uzZ7W7lDZ7bsK6kF"
+            }
+          }
+        }
+      },
+      "data": {
+        "status": 422,
+        "statusText": "Unprocessable Entity",
+        "message": "Validation error",
+        "details": {
+          "errors": [
+            {
+              "name": "regexp",
+              "details": "Does not match /^https?://[^ \"]+$/",
+              "value": "https:https://drive.google.com/open?id=1eNJpclaKyTNavyS3uzZ7W7lDZ7bsK6kF",
+              "pattern": "^https?://[^ \"]+$",
+              "path": [
+                "fields",
+                "file",
+                "en-US",
+                "upload"
+              ]
+            }
+          ]
+        },
+        "request": {
+          "url": "https://api.contentful.com:443/spaces/gibqgqm8g75c/environments/master/assets/6nf3rNaaVaUqYcoAcciSeC/files/en-US/process",
+          "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Content-Type": "application/vnd.contentful.management.v1+json",
+            "X-Contentful-User-Agent": "app contentful.import/7.4.2; feature library-import; sdk contentful-management.js/5.2.1; platform node.js/v10.15.3; os Linux/4.15.0-46-generic;",
+            "Authorization": "Bearer ...42c0b",
+            "user-agent": "node.js/v10.15.3",
+            "Accept-Encoding": "gzip",
+            "X-Contentful-Version": 55
+          },
+          "method": "put",
+          "payloadData": null
+        },
+        "requestId": "e21cedd5bff7c1beb9df12c1a4429bcd"
+      }
+    }
+  }
+]
