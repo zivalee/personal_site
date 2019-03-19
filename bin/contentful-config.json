@@ -1361,15 +1361,14 @@
       },
       "fields": {
         "title": {
-          "en-US": "Gatsby logo"
+          "en-US": "Photoshop Work"
         },
         "description": {
-          "en-US": "Gatsby logo"
+          "en-US": "Photoshop Work"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/ntiequ7mc6q6/6rkOXCpyvuekYIgy6U6gGu/9369860d91a93b58c949fedfc8967703/1_t5EnAu3eSWJA0rmZ9v3xuw.png",
-            
+            "url": "//i.imgur.com/ZncBzI5.jpg",
             "details": {
               "size": 111702,
               "image": {
@@ -1377,8 +1376,8 @@
                 "height": 1600
               }
             },
-            "fileName": "1*t5EnAu3eSWJA0rmZ9v3xuw.png",
-            "contentType": "image/png"
+            "fileName": "ZncBzI5.jpg",
+            "contentType": "image/jpg"
           }
         }
       }
