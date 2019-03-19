@@ -1291,14 +1291,14 @@
       },
       "fields": {
         "title": {
-          "en-US": "Google Logo"
+          "en-US": "Gymshark Logo"
         },
         "description": {
-          "en-US": "Logo from Google"
+          "en-US": "Gymshark Logo"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/ntiequ7mc6q6/3AorRmtWOsGQ4o8gK0YWKG/bafdc9f6551a2b487fe0126158630b27/google_PNG19630.png",
+            "url": "//i.imgur.com/UJlVp5H.jpg",
             "details": {
               "size": 39228,
               "image": {
@@ -1306,8 +1306,8 @@
                 "height": 1000
               }
             },
-            "fileName": "google_PNG19630.png",
-            "contentType": "image/png"
+            "fileName": "UJlVp5H.jpg",
+            "contentType": "image/jpg"
           }
         }
       }
@@ -1369,6 +1369,7 @@
         "file": {
           "en-US": {
             "url": "//images.ctfassets.net/ntiequ7mc6q6/6rkOXCpyvuekYIgy6U6gGu/9369860d91a93b58c949fedfc8967703/1_t5EnAu3eSWJA0rmZ9v3xuw.png",
+            
             "details": {
               "size": 111702,
               "image": {
