@@ -62,7 +62,6 @@ const TextContainer = styled.div`
   padding: 10px;
   width: 100%;
   width: calc(100% - ${CARD_HEIGHT});
-
   ${MEDIA_QUERY_SMALL} {
     width: calc(100% - (${CARD_HEIGHT} / 2));
   }
@@ -71,7 +70,6 @@ const TextContainer = styled.div`
 const ImageContainer = styled.div`
   margin: auto;
   width: ${CARD_HEIGHT};
-
   ${MEDIA_QUERY_SMALL} {
     width: calc(${CARD_HEIGHT} / 2);
   }
@@ -82,7 +80,6 @@ const ProjectImage = styled(Image)`
   height: ${CARD_HEIGHT};
   padding: 40px;
   margin-top: 0px;
-
   ${MEDIA_QUERY_SMALL} {
     height: calc(${CARD_HEIGHT} / 2);
     width: calc(${CARD_HEIGHT} / 2);
@@ -97,7 +94,6 @@ const ProjectTag = styled.div`
   top: calc(
     -${CARD_HEIGHT} - 3.5px
   ); /*don't know why I have to add 3.5px here ... */
-
   ${MEDIA_QUERY_SMALL} {
     top: calc(-${CARD_HEIGHT} - 3.5px + (${CARD_HEIGHT} / 4));
   }

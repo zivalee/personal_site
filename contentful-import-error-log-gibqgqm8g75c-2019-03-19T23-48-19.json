@@ -1,6 +1,6 @@
 [
   {
-    "ts": "2019-03-19T04:25:18.947Z",
+    "ts": "2019-03-19T15:49:00.949Z",
     "level": "error",
     "error": {
       "name": "ValidationFailed",
@@ -13,10 +13,10 @@
               "id": "gibqgqm8g75c"
             }
           },
-          "id": "6nf3rNaaVaUqYcoAcciSeC",
+          "id": "u3Um4zkMrAaQioyq4oSIW",
           "type": "Asset",
-          "createdAt": "2019-03-17T10:58:46.918Z",
-          "updatedAt": "2019-03-19T04:25:17.893Z",
+          "createdAt": "2019-03-17T10:58:46.933Z",
+          "updatedAt": "2019-03-19T15:48:59.805Z",
           "environment": {
             "sys": {
               "id": "master",
@@ -24,9 +24,9 @@
               "linkType": "Environment"
             }
           },
-          "publishedVersion": 53,
-          "publishedAt": "2019-03-19T04:15:53.487Z",
-          "firstPublishedAt": "2019-03-17T10:58:54.429Z",
+          "publishedVersion": 77,
+          "publishedAt": "2019-03-19T08:17:48.535Z",
+          "firstPublishedAt": "2019-03-17T10:58:55.097Z",
           "createdBy": {
             "sys": {
               "type": "Link",
@@ -41,8 +41,8 @@
               "id": "0MB6vLZ3tZ0q17FdWE4JBZ"
             }
           },
-          "publishedCounter": 18,
-          "version": 55,
+          "publishedCounter": 23,
+          "version": 85,
           "publishedBy": {
             "sys": {
               "type": "Link",
@@ -53,16 +53,16 @@
         },
         "fields": {
           "title": {
-            "en-US": "Mate Logo"
+            "en-US": "Facebook logo"
           },
           "description": {
-            "en-US": "Mate Logo"
+            "en-US": "Facebook logo"
           },
           "file": {
             "en-US": {
-              "contentType": "image/png",
-              "fileName": "icon.png",
-              "upload": "https:https://drive.google.com/open?id=1eNJpclaKyTNavyS3uzZ7W7lDZ7bsK6kF"
+              "upload": "https:https://photos.app.goo.gl/wbjNmGBr2FHrKxKdA",
+              "fileName": "simplendar.png",
+              "contentType": "image/png"
             }
           }
         }
@@ -76,7 +76,7 @@
             {
               "name": "regexp",
               "details": "Does not match /^https?://[^ \"]+$/",
-              "value": "https:https://drive.google.com/open?id=1eNJpclaKyTNavyS3uzZ7W7lDZ7bsK6kF",
+              "value": "https:https://photos.app.goo.gl/wbjNmGBr2FHrKxKdA",
               "pattern": "^https?://[^ \"]+$",
               "path": [
                 "fields",
@@ -88,7 +88,7 @@
           ]
         },
         "request": {
-          "url": "https://api.contentful.com:443/spaces/gibqgqm8g75c/environments/master/assets/6nf3rNaaVaUqYcoAcciSeC/files/en-US/process",
+          "url": "https://api.contentful.com:443/spaces/gibqgqm8g75c/environments/master/assets/u3Um4zkMrAaQioyq4oSIW/files/en-US/process",
           "headers": {
             "Accept": "application/json, text/plain, */*",
             "Content-Type": "application/vnd.contentful.management.v1+json",
@@ -96,12 +96,12 @@
             "Authorization": "Bearer ...42c0b",
             "user-agent": "node.js/v10.15.3",
             "Accept-Encoding": "gzip",
-            "X-Contentful-Version": 55
+            "X-Contentful-Version": 85
           },
           "method": "put",
           "payloadData": null
         },
-        "requestId": "e21cedd5bff7c1beb9df12c1a4429bcd"
+        "requestId": "f675cce32e263ce38fd073a9f557741f"
       }
     }
   }

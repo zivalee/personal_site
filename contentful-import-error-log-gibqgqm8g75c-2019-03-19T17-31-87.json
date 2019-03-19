@@ -1,0 +1,108 @@
+[
+  {
+    "ts": "2019-03-19T09:31:31.600Z",
+    "level": "error",
+    "error": {
+      "name": "ValidationFailed",
+      "entity": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "gibqgqm8g75c"
+            }
+          },
+          "id": "u3Um4zkMrAaQioyq4oSIW",
+          "type": "Asset",
+          "createdAt": "2019-03-17T10:58:46.933Z",
+          "updatedAt": "2019-03-19T09:31:30.475Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 77,
+          "publishedAt": "2019-03-19T08:17:48.535Z",
+          "firstPublishedAt": "2019-03-17T10:58:55.097Z",
+          "createdBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "0MB6vLZ3tZ0q17FdWE4JBZ"
+            }
+          },
+          "updatedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "0MB6vLZ3tZ0q17FdWE4JBZ"
+            }
+          },
+          "publishedCounter": 23,
+          "version": 81,
+          "publishedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "0MB6vLZ3tZ0q17FdWE4JBZ"
+            }
+          }
+        },
+        "fields": {
+          "title": {
+            "en-US": "Facebook logo"
+          },
+          "description": {
+            "en-US": "Facebook logo"
+          },
+          "file": {
+            "en-US": {
+              "upload": "https:https://photos.app.goo.gl/wbjNmGBr2FHrKxKdA",
+              "fileName": "simplendar.png",
+              "contentType": "image/png"
+            }
+          }
+        }
+      },
+      "data": {
+        "status": 422,
+        "statusText": "Unprocessable Entity",
+        "message": "Validation error",
+        "details": {
+          "errors": [
+            {
+              "name": "regexp",
+              "details": "Does not match /^https?://[^ \"]+$/",
+              "value": "https:https://photos.app.goo.gl/wbjNmGBr2FHrKxKdA",
+              "pattern": "^https?://[^ \"]+$",
+              "path": [
+                "fields",
+                "file",
+                "en-US",
+                "upload"
+              ]
+            }
+          ]
+        },
+        "request": {
+          "url": "https://api.contentful.com:443/spaces/gibqgqm8g75c/environments/master/assets/u3Um4zkMrAaQioyq4oSIW/files/en-US/process",
+          "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Content-Type": "application/vnd.contentful.management.v1+json",
+            "X-Contentful-User-Agent": "app contentful.import/7.4.2; feature library-import; sdk contentful-management.js/5.2.1; platform node.js/v10.15.3; os Linux/4.15.0-46-generic;",
+            "Authorization": "Bearer ...42c0b",
+            "user-agent": "node.js/v10.15.3",
+            "Accept-Encoding": "gzip",
+            "X-Contentful-Version": 81
+          },
+          "method": "put",
+          "payloadData": null
+        },
+        "requestId": "6d1a50d4f9335892fefa67274cf93aeb"
+      }
+    }
+  }
+]

@@ -33,11 +33,11 @@ const Background = () => (
 );
 
 const ProfilePicture = styled(Image)`
-  border-radius: 50%;
+  border-radius: 20%;
   transition: all 0.25s ease-out;
 
   &:hover {
-    border-radius: 20%;
+    border-radius: 50%;
   }
 `;
 
@@ -66,7 +66,7 @@ const About = () => (
         const { aboutMe, profile } = data.contentfulAbout;
         return (
           <Flex justifyContent="center" alignItems="center" flexWrap="wrap">
-            <Box width={[1, 1, 4 / 6]} px={[1, 2, 4]}>
+            <Box width={[1, 1, 4 / 6]} px={[1,2,4]}>
               <Fade bottom>
                 <ReactMarkdown
                   source={aboutMe.childMarkdownRemark.rawMarkdownBody}

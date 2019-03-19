@@ -692,7 +692,7 @@
           }
         },
         "aboutMe": {
-          "en-US": "Hello, I'm a university student majoring in information management. I've always been a:\n* [Techonology Enthusiast:] Love to try out new 3C products and watch unboxing videos.\n* [Language Enthusiast:] Love to learn English and German by watching movies!\n* [Perfectionist:] I will do everything I can to acheive my goals.\n* [Chanllenge Seeker:] I always get sense of fulfillment through sloving problems and conquering challenges.\n* [Giver:] Helping others always makes my day.😃"
+          "en-US": "Hi, it's Ziva, a university student majoring in information management. I've always been a:\n* [Techonology Enthusiast:] Love to try out new 3C products and watch unboxing videos.\n* [Language Enthusiast:] Love to learn English and German by watching movies!\n* [Perfectionist:] I will do everything I can to acheive my goals.\n* [Chanllenge Seeker:] I always get sense of fulfillment through sloving problems and conquering challenges.\n* [Giver:] Helping others always makes my day.😃"
         },
         "mediumUser": {
           "en-US": "@emasuriano"
@@ -849,7 +849,7 @@
           "en-US": "Google"
         },
         "publishedDate": {
-          "en-US": "1998-06-19T00:00+02:00"
+          "en-US": "2019-02-18T00:00+02:00"
         },
         "logo": {
           "en-US": {
@@ -861,16 +861,16 @@
           }
         },
         "repositoryUrl": {
-          "en-US": "https://github.com/google"
+          "en-US": "https://drive.google.com/file/d/1dRH3EBA_HckqEN65cyzy5H5jxYeXp8sG/view?usp=sharing"
         },
         "description": {
-          "en-US": "It is the most-used search engine on the World Wide Web, handling more than three billion searches each day."
+          "en-US": "I attended MIC Industrial Analysis Camp in 2019. This is an analysis I made after the camp concerning Gymshark's business model and its future."
         },
         "projectUrl": {
-          "en-US": "https://www.google.com/"
+          "en-US": "https://drive.google.com/file/d/1dRH3EBA_HckqEN65cyzy5H5jxYeXp8sG/view?usp=sharing"
         },
         "type": {
-          "en-US": "Web"
+          "en-US": "Analysis"
         }
       }
     },
@@ -930,7 +930,7 @@
       },
       "fields": {
         "name": {
-          "en-US": "Gatsby JS"
+          "en-US": "PS"
         },
         "publishedDate": {
           "en-US": "2016-09-01T00:00+02:00"
@@ -945,16 +945,16 @@
           }
         },
         "repositoryUrl": {
-          "en-US": "https://github.com/gatsbyjs/gatsby"
+          "en-US": "https://drive.google.com/file/d/1ABA50mJv5R-GaCdQQXQ2rKeuqvaQG9WN/view?usp=sharing"
         },
         "description": {
-          "en-US": " Gatsby is a React-based, GraphQL powered, static site generator. Overall think, part Jekyll, part create-react-app."
+          "en-US": "Some of my Photoshop Works.\n Title: OverHeat"
         },
         "projectUrl": {
-          "en-US": "https://www.gatsbyjs.org/"
+          "en-US": "https://drive.google.com/file/d/1ABA50mJv5R-GaCdQQXQ2rKeuqvaQG9WN/view?usp=sharing"
         },
         "type": {
-          "en-US": "Framework"
+          "en-US": "Photoshop"
         }
       }
     },
@@ -1017,7 +1017,7 @@
           "en-US": "Simplendar"
         },
         "publishedDate": {
-          "en-US": "2004-09-01T00:00+02:00"
+          "en-US": "2018-06-20T00:00+02:00"
         },
         "logo": {
           "en-US": {
@@ -1032,7 +1032,10 @@
           "en-US": "https://github.com/zivalee/Simplendar"
         },
         "description": {
-          "en-US": "I LOVE working out! To workout efficiently, I need to record my everyday calory intake. Also, I have the habit of recording my everyday expenses. So my friends and I created Simplendar. A simple calendar app for you to record your daily calorie intake, water intake, expense, and idea."
+          "en-US": "To workout efficiently, I record my everyday calories intake. Also, I have the habit of recording my everyday expenses. So I created a simple calendar app to record calorie & water intake, expense, and idea."
+        },
+        "projectUrl": {
+          "en-US": "https://github.com/zivalee/Simplendar"
         },
         "type": {
           "en-US": "App"
@@ -1435,7 +1438,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/ntiequ7mc6q6/u3Um4zkMrAaQioyq4oSIW/876e172d31bbc05ab2599e77188ea545/600px-Facebook_logo__28square_29.png",
+            "url": "//photos.app.goo.gl/wbjNmGBr2FHrKxKdA",
             "details": {
               "size": 13209,
               "image": {
@@ -1443,7 +1446,7 @@
                 "height": 600
               }
             },
-            "fileName": "600px-Facebook_logo_%28square%29.png",
+            "fileName": "simplendar.png",
             "contentType": "image/png"
           }
         }
