@@ -846,7 +846,7 @@
       },
       "fields": {
         "name": {
-          "en-US": "Google"
+          "en-US": "Gymshark Analysis"
         },
         "publishedDate": {
           "en-US": "2019-02-18T00:00+02:00"
@@ -1298,7 +1298,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//i.imgur.com/UJlVp5H.jpg",
+            "url": "//i.imgur.com/3aS0f5O.png",
             "details": {
               "size": 39228,
               "image": {
@@ -1306,8 +1306,8 @@
                 "height": 1000
               }
             },
-            "fileName": "UJlVp5H.jpg",
-            "contentType": "image/jpg"
+            "fileName": "3aS0f5O.png",
+            "contentType": "image/png"
           }
         }
       }
