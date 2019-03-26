@@ -719,6 +719,13 @@
                 "linkType": "Entry",
                 "id": "5paxSRHbAkmgMc4WSW8S66"
               }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "a1"
+              }
             }
           ]
         }
@@ -787,6 +794,90 @@
         },
         "fontAwesomeIcon": {
           "en-US": "github"
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ntiequ7mc6q6"
+          }
+        },
+        "id": "a1",
+        "type": "Entry",
+        "createdAt": "2018-09-08T08:25:47.955Z",
+        "updatedAt": "2018-09-08T09:40:56.658Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2XGcyQ3vKgm55htxMAIqsM"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2XGcyQ3vKgm55htxMAIqsM"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 51,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2XGcyQ3vKgm55htxMAIqsM"
+          }
+        },
+        "publishedVersion": 50,
+        "firstPublishedAt": "2018-09-08T08:38:15.314Z",
+        "publishedAt": "2018-09-08T09:40:56.657Z",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Cathay Big Data Analysis Competition"
+        },
+        "publishedDate": {
+          "en-US": "2018-02-18T00:00+02:00"
+        },
+        "logo": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "b1"
+            }
+          }
+        },
+        "repositoryUrl": {
+          "en-US": "https://www.chinatimes.com/newspapers/20180109000305-260205?chdtv"
+        },
+        "description": {
+          "en-US": "A memorable experience for me and my teammates. I got to know life insurance and data analysis models better. Also improved my proposal conceiving and proposal writing skills."
+        },
+        "projectUrl": {
+          "en-US": "https://www.chinatimes.com/newspapers/20180109000305-260205?chdtv"
+        },
+        "type": {
+          "en-US": "Experience"
         }
       }
     },
@@ -948,7 +1039,7 @@
           "en-US": "https://drive.google.com/file/d/1ABA50mJv5R-GaCdQQXQ2rKeuqvaQG9WN/view?usp=sharing"
         },
         "description": {
-          "en-US": "Some of my Photoshop Works.\n Title: OverHeat"
+          "en-US": "One of my Photoshop Works.\n Title: OverHeat"
         },
         "projectUrl": {
           "en-US": "https://drive.google.com/file/d/1ABA50mJv5R-GaCdQQXQ2rKeuqvaQG9WN/view?usp=sharing"
@@ -1242,6 +1333,76 @@
     }
   ],
   "assets": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ntiequ7mc6q6"
+          }
+        },
+        "id": "b1",
+        "type": "Asset",
+        "createdAt": "2018-09-08T08:26:24.437Z",
+        "updatedAt": "2018-09-23T09:26:16.789Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2XGcyQ3vKgm55htxMAIqsM"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2XGcyQ3vKgm55htxMAIqsM"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 27,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2XGcyQ3vKgm55htxMAIqsM"
+          }
+        },
+        "publishedVersion": 26,
+        "firstPublishedAt": "2018-09-08T08:29:51.622Z",
+        "publishedAt": "2018-09-23T09:26:16.789Z"
+      },
+      "fields": {
+        "title": {
+          "en-US": "Cathay Logo"
+        },
+        "description": {
+          "en-US": "Cathay Logo"
+        },
+        "file": {
+          "en-US": {
+            "url": "//imgur.com/UDfyxVV",
+            "details": {
+              "size": 39228,
+              "image": {
+                "width": 1000,
+                "height": 1000
+              }
+            },
+            "fileName": "logo.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
     {
       "sys": {
         "space": {
