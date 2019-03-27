@@ -1324,7 +1324,7 @@
           "en-US": "Resume"
         },
         "url": {
-          "en-US": "https://drive.google.com/file/d/1dxCPYu7njQFC83zYha67GWLFqMTLXkQW/view?usp=sharing"
+          "en-US": "https://drive.google.com/file/d/1KcODSn2p0qx1wlsS8IrHTgOiND1UT54r/view?usp=sharing"
         },
         "fontAwesomeIcon": {
           "en-US": "file"
@@ -1382,14 +1382,14 @@
       },
       "fields": {
         "title": {
-          "en-US": "Gymshark Logo"
+          "en-US": "Cathay Logo"
         },
         "description": {
-          "en-US": "Gymshark Logo"
+          "en-US": "Cathay Logo"
         },
         "file": {
           "en-US": {
-            "url": "//i.imgur.com/3aS0f5O.png",
+            "url": "//i.imgur.com/EvdLkzN.png",
             "details": {
               "size": 39228,
               "image": {
@@ -1397,7 +1397,7 @@
                 "height": 1000
               }
             },
-            "fileName": "3aS0f5O.png",
+            "fileName": "EvdLkzN.png",
             "contentType": "image/png"
           }
         }
